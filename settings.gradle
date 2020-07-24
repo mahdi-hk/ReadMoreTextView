@@ -1,0 +1,2 @@
+include ':app', ':seemoretextview2', ':textmoretextview'
+rootProject.name='SeeMoreTextView'

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SeeMoreTextView">
+        <attr name="setTextOpenSeeMore" format="string" />
+        <attr name="setTextExitSeeMore" format="string" />
+        <attr name="TextColorOpenMore" format="color" />
+        <attr name="TextColorExitMore" format="color" />
+        <!--
+        <attr name="colorClickableText" format="color" />
+         -->
+        <attr name="setLength" format="integer" />
+
+        <attr name="setMoreType">
+            <enum name="ModeLine" value="0"/>
+            <enum name="ModeLength" value="1"/>
+        </attr>
+
+    </declare-styleable>
+</resources>
