@@ -1,4 +1,4 @@
-# SeeMoreTextView
+# See More Text View
 
 #In the developing state :)
 
