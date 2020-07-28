@@ -1,4 +1,4 @@
-# See More Text View
+# Read More Text View
 
 #In the developing state :)
 
